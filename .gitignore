@@ -1,0 +1,5 @@
+mp3
+old
+*.json
+.venv
+**/__pycache__/*
